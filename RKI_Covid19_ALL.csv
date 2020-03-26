@@ -1,20 +1,20 @@
 Anzahl,Besonders betroffene Gebiete,Bundesland,Date,Differenz zum Vortag,Fälle/100.000 Einw.,Todesfälle
-3.807,,Baden-Württem­berg,22-03-2020,139.0,34,21.0
-3.65,,Bayern,22-03-2020,690.0,28,21.0
-1.024,,Berlin,22-03-2020,158.0,27,1.0
-274.0,,Brandenburg,22-03-2020,20.0,11,
-165.0,,Bremen,22-03-2020,23.0,24,
-872.0,,Hamburg,22-03-2020,285.0,47,
-1.175,,Hessen,22-03-2020,95.0,19,2.0
-172.0,,Mecklenburg-Vor­pommern,22-03-2020,7.0,11,
-1.306,,Niedersachsen,22-03-2020,283.0,16,1.0
-3.545,Landkreis Heinsberg,Nordrhein-West­falen,22-03-2020,3.0,20,6.0
-1.053,,Rhein­land-Pfalz,22-03-2020,115.0,26,2.0
-187.0,,Saarland,22-03-2020,0.0,19,
-606.0,,Sachsen,22-03-2020,39.0,15,
-211.0,,Sachsen-Anhalt,22-03-2020,23.0,10,
-347.0,,Schles­wig-Holstein,22-03-2020,39.0,12,1.0
-216.0,,Thüringen,22-03-2020,29.0,10,
+3.807,,Baden-Württem­berg,22-03-2020,139,34,21.0
+3.65,,Bayern,22-03-2020,690,28,21.0
+1.024,,Berlin,22-03-2020,158,27,1.0
+274.0,,Brandenburg,22-03-2020,20,11,
+165.0,,Bremen,22-03-2020,23,24,
+872.0,,Hamburg,22-03-2020,285,47,
+1.175,,Hessen,22-03-2020,95,19,2.0
+172.0,,Mecklenburg-Vor­pommern,22-03-2020,7,11,
+1.306,,Niedersachsen,22-03-2020,283,16,1.0
+3.545,Landkreis Heinsberg,Nordrhein-West­falen,22-03-2020,3,20,6.0
+1.053,,Rhein­land-Pfalz,22-03-2020,115,26,2.0
+187.0,,Saarland,22-03-2020,0,19,
+606.0,,Sachsen,22-03-2020,39,15,
+211.0,,Sachsen-Anhalt,22-03-2020,23,10,
+347.0,,Schles­wig-Holstein,22-03-2020,39,12,1.0
+216.0,,Thüringen,22-03-2020,29,10,
 3.8110000000000004,,Baden-Württem­berg,23-03-2020,4.0,34,21.0
 4.8919999999999995,,Bayern,23-03-2020,1.242,37,26.0
 1077.0,,Berlin,23-03-2020,53.0,29,1.0
@@ -47,3 +47,19 @@ Anzahl,Besonders betroffene Gebiete,Bundesland,Date,Differenz zum Vortag,Fälle/
 321.0,,Sachsen-Anhalt,24-03-2020,109.0,15,
 478.0,,Schles­wig-Holstein,24-03-2020,95.0,17,2.0
 327.0,,Thüringen,24-03-2020,78.0,15,1.0
+7.2829999999999995,,Baden-Württem­berg,26-03-2020,+1.214,66,56.0
+7.992999999999999,,Bayern,26-03-2020,+1.435,61,47.0
+1.656,,Berlin,26-03-2020,+228,44,4.0
+477.0,,Brandenburg,26-03-2020,+48,19,1.0
+211.0,,Bremen,26-03-2020,+11,31,1.0
+1.265,,Hamburg,26-03-2020,+3*,69,
+2.157,,Hessen,26-03-2020,+403,34,6.0
+244.0,,Mecklenburg-Vor­pommern,26-03-2020,+26,15,
+2.347,,Niedersachsen,26-03-2020,+207,29,8.0
+7.9239999999999995,Landkreis Heinsberg,Nordrhein-West­falen,26-03-2020,+727,44,53.0
+1.8159999999999998,,Rhein­land-Pfalz,26-03-2020,+225,44,6.0
+433.0,,Saarland,26-03-2020,+30,44,2.0
+1.141,,Sachsen,26-03-2020,+182,28,7.0
+418.0,,Sachsen-Anhalt,26-03-2020,+43,19,1.0
+675.0,,Schles­wig-Holstein,26-03-2020,+98,23,3.0
+468.0,,Thüringen,26-03-2020,+74,22,3.0
