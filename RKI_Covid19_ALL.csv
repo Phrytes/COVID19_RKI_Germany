@@ -1,4 +1,4 @@
-Anzahl,Besonders betroffene Gebiete,Bundesland,Date,Differenz zum Vortag,Fälle/100.000 Einw.,Todesfälle
+﻿Anzahl,Besonders betroffene Gebiete,Bundesland,Date,Differenz zum Vortag,Fälle/100.000 Einw.,Todesfälle
 3.807,,Baden-Württem­berg,22-03-2020,139,34,21.0
 3.65,,Bayern,22-03-2020,690,28,21.0
 1.024,,Berlin,22-03-2020,158,27,1.0
@@ -47,6 +47,22 @@ Anzahl,Besonders betroffene Gebiete,Bundesland,Date,Differenz zum Vortag,Fälle/
 321.0,,Sachsen-Anhalt,24-03-2020,109.0,15,
 478.0,,Schles­wig-Holstein,24-03-2020,95.0,17,2.0
 327.0,,Thüringen,24-03-2020,78.0,15,1.0
+6.069,,Baden-Württem­berg,25-03-2020,721.0,55,37.0
+6.558,,Bayern,25-03-2020,804.0,50,37.0
+1.4280000000000002,,Berlin,25-03-2020,208.0,38,2.0
+429.0,,Brandenburg,25-03-2020,86.0,17,1.0
+200.0,,Bremen,25-03-2020,17.0,29,
+1.262,,Hamburg,25-03-2020,219.0,69,
+1.754,,Hessen,25-03-2020,134.0,28,4.0
+218.0,,Mecklenburg-Vor­pommern,25-03-2020,19.0,14,
+2.14,,Niedersachsen,25-03-2020,376.0,27,7.0
+7.197,Landkreis Heinsberg,Nordrhein-West­falen,25-03-2020,879.0,40,43.0
+1.591,,Rhein­land-Pfalz,25-03-2020,221.0,39,5.0
+403.0,,Saarland,25-03-2020,66.0,41,2.0
+959.0,,Sachsen,25-03-2020,148.0,24,6.0
+375.0,,Sachsen-Anhalt,25-03-2020,54.0,17,1.0
+577.0,,Schles­wig-Holstein,25-03-2020,99.0,20,3.0
+394.0,,Thüringen,25-03-2020,67.0,18,1.0
 7.2829999999999995,,Baden-Württem­berg,26-03-2020,+1.214,66,56.0
 7.992999999999999,,Bayern,26-03-2020,+1.435,61,47.0
 1.656,,Berlin,26-03-2020,+228,44,4.0

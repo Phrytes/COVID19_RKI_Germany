@@ -5,6 +5,9 @@ import re
 import os
 from bs4 import BeautifulSoup
 
+# You should use this source!
+# https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_Germany
+
 RKI_url = 'https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html'
 requestRKI = requests.get(RKI_url)
 soup = BeautifulSoup(requestRKI.content)
