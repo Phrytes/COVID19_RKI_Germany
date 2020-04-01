@@ -32,7 +32,7 @@ for table_row in table.findAll('tr'):
 
 output_rows = list(np.delete(output_rows, [0, 1, len(output_rows) - 1]))
 
-headers = ['Bundesland', 'Anzahl', 'Differenz zum Vortag', 'Fälle/100.000 Einw.', 'Todesfälle', 'Besonders betroffene Gebiete']
+headers = ['Bundesland', 'Anzahl', 'Differenz zum Vortag', 'Fälle/100.000 Einw.', 'Todesfälle']
 outputTable = pd.DataFrame(output_rows, columns=headers)
 outputTable.insert(0, 'Date', date)
 
