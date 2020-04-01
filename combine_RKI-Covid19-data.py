@@ -19,4 +19,8 @@ for f in all_files:
 
 combined_df = pd.concat(all_df, ignore_index=True, sort=True)
 outputFileName = outputLoc + 'RKI_Covid19_ALL.csv'
+# Sort by date
+combined_df["Date"] = pd.to_datetime(combined_df["Date"], format="%d-%m-%Y")
+combined_df = combined_df.sort_values(by="Date")
+# Write to file
 combined_df.to_csv(outputFileName, sep=',', encoding='utf-8', index=False)
