@@ -11,7 +11,7 @@ import datetime
 
 RKI_url = 'https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html'
 requestRKI = requests.get(RKI_url)
-soup = BeautifulSoup(requestRKI.content)
+soup = BeautifulSoup(requestRKI.content, features="html.parser")
 table = soup.find("table")
 allP = list(soup.find_all("p"))
 dateP = [p for p in allP if str(p).__contains__("online aktualisiert um")]
