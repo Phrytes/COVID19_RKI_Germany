@@ -28,8 +28,11 @@ def rppl(tx):
 rh = [re.sub('<[^<]+?>', '', rppl(str(p))) for p in allcols if str(p).__contains__('colspan="1"')]
 RKIColumnHeaders = [y for y in rh if len(y)>0]
 ##
-
-dateP = [p for p in allP if str(p).__contains__("online aktualisiert um")]
+## circumventing possible "<span ...>" enclosing of individual words
+dateP = [p for p in allP if str(p).__contains__("online") and str(p).__contains__("aktualisiert")]
+print("__///___")
+print(dateP)
+quit
 #find footnote under table
 RKIFootnotes = [re.sub('<[^<]+?>', '', str(p)) for p in allP if str(p).__contains__("*")]
 
